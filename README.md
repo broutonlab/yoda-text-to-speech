@@ -1,4 +1,6 @@
-# Yoda text to speech
+# Yoda text to speech: article(https://broutonlab.com/blog/generate-Yoda-voice-by-your-text-in-5-minutes)
+![Yoda](https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif)
+
 ## Idea
 The core idea behind the [article and google colab demo](https://broutonlab.com/blog/generate-Yoda-voice-by-your-text-in-5-minutes) we provide - is to exploring topic itself from moment of encoding sound to image with help of Fourier Transform to vocalize generated mel-spectrogram, explaining how Image style transfer can be applied to sound
 
@@ -9,7 +11,7 @@ The core idea behind the [article and google colab demo](https://broutonlab.com/
 By running demo in the [article](https://broutonlab.com/blog/generate-Yoda-voice-by-your-text-in-5-minutes) you will be able to generate Yoda's voice and even your own
 
 #### Example of Yoda voice generation:
-[![soundcloud source](resources/yoda_soundcloud.png](http://google.com.au/)](https://soundcloud.com/user-932195554/yoda-generated-broutonlab)
+[![soundcloud source](resources/yoda_soundcloud.png)](https://soundcloud.com/user-932195554/yoda-generated-broutonlab)
 
 
 ## Resources
